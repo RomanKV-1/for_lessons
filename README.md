@@ -1,2 +1,2 @@
 # for_lessons
-for learning Python
+This is repository created for learning Python
